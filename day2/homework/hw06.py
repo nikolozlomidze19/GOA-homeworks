@@ -14,9 +14,6 @@ num2 = 24.7
 num3 = 12.9
 
 
-
-
-
 print(name)
 print(surname)
 print(addres)
