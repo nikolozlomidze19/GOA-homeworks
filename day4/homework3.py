@@ -1,6 +1,6 @@
 num1=3
-age=14
-num2=(num1+age)
+num2=14
+num3=(num1+num2)
 
 
 
